@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "IB_Console": {
+      "commandName": "Project",
+      "commandLineArgs": "UPRO"
+    }
+  }
+}
